@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Qianyi Zhang (Kenny)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Zhang Qianyi (Kenny)
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Qianyi
+last_name: Zhang
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,69 +20,63 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Candidate PH.D. of Robotics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Nankai University
+    url: https://en.nankai.edu.cn/
+  - name: University College London
+    url: https://rpl-as-ucl.github.io/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+  # - icon: at-symbol
+  #   url: 'mailto:your-email@example.com'
+  #   label: E-mail Me
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
+  # - icon: brands/github
+  #   url: https://github.com/gcushen
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
+  - icon: envelope
+    url: 'mailto:arvin.nkzqy@gmail.com'
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=lIci_KQAAAAJ&hl=en
+  - icon: brands/github
+    url: https://github.com/Chris-Arvin
+  - icon: brands/cv
+    url: uploads/resume.pdf
+
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Motion planning of mobile robots
+  - Decision-making of autonomous vehicles
+  - Game theory for human-robot interaction
+  - Reinforcement learning in robot navigation
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: PhD in Artificial Intelligence
+    institution: Nankai University
+    date_start: 2021-09-01
+    date_end: 2026-06-01
+  - area: Visiting PhD in Robotics Institute
+    institution: University College London
+    date_start: 2024-12-01
+    date_end: 2025-12-01
+  - area: BSc in Automation System
+    institution: Nankai University
+    date_start: 2017-09-01
+    date_end: 2021-06-01
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -110,44 +104,48 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Technical
     items:
-      - name: Python
+      - name: C++
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+        percent: 90
+        icon: python
+        icon_pack: fab
+      - name: ROS
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: robot
+        icon_pack: fas
+      - name: Reinforcement Learning
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 70
+        icon: database
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: 70
+        icon: person-hiking
+        icon_pack: fas
+      - name: Skateboarding
         description: ''
-        percent: 100
-        icon: cat
+        percent: 90
+        icon: rocket
+        icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
-        icon: camera
+        percent: 100
+        icon: camera-retro
+        icon_pack: fas
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: English
+    percent: 85
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +181,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Qianyi Zhang is a candidate PH.D. of robotics at Institute of Robotics and Automatic Information System, Nankai University, China. His research interests include motion planning of mobile robots, decision-making of automated vehicles, game theory for human-robot interaction, and reinforcement learning in robot navigation. 
