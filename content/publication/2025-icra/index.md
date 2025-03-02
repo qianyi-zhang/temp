@@ -5,11 +5,11 @@ title: 'GA-TEB: Goal-Adaptive Framework for Efficient Navigation Based on Goal L
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Wentao Luo
-- Ziyang Zhang
-- Yaoyuan Wang
-- Jingtai Liu
+  - admin
+  - Wentao Luo
+  - Ziyang Zhang
+  - Yaoyuan Wang
+  - Jingtai Liu
 
 
 date: '2025-04-01T00:00:00Z'

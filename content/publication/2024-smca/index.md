@@ -1,5 +1,5 @@
 ---
-title: "A Time-Optimal Tentative Game for Autonomou Vehicles to Efficiently Pass through Narrow Roads"
+title: "SM-NR: Scene Modeling of Autonomous Vehicles Avoiding Stationary and Moving Objects on Narrow Roads"
 authors:
 - admin
 - Jinzheng Guang
@@ -20,7 +20,7 @@ date: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Intelligent Transportation Systems, under review*(TITS)"
+publication: "*IEEE Transactions on Systems, Man and Cybernetics: Systems*(SMCA)"
 publication_short: ""
 
 abstract: Navigating narrow roads with oncoming vehicles is a significant challenge that has garnered considerable public interest. These scenarios often involve sections that cannot accommodate two moving vehicles simultaneously due to the presence of stationary vehicles or limited road width. Autonomous vehicles must therefore profoundly comprehend their surroundings to identify passable areas and execute sophisticated maneuvers. To address this issue, this paper presents a comprehensive model for such an intricate scenario. The primary contribution is the principle of road width occupancy minimization, which models the narrow road problem and identifies candidate meeting gaps. Additionally, the concept of homology classes is introduced to help initialize and optimize candidate trajectories, while evaluation strategies are developed to select the optimal gap and most efficient trajectory. Qualitative and quantitative simulations demonstrate that the proposed approach, SM-NR, achieves high scene pass rates, efficient movement, and robust decisions. Experiments conducted in tiny gap scenarios and conflict scenarios reveal that the autonomous vehicle can robustly select meeting gaps and trajectories, compromising flexibly for safety while advancing bravely for efficiency. Visit https://sm-nr.github.io for the video and code.
@@ -32,17 +32,17 @@ tags:
 - Source Themes
 featured: false
 
-# # links:
-# # - name: ""
-# #   url: ""
-# url_pdf: https://ieeexplore.ieee.org/document/10210322
-# url_code: 'https://github.com/Chris-Arvin/GraphicTEB'
-# url_dataset: ''
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: ''
-# url_video: 'https://www.youtube.com/watch?v=SzZGKdbzH9Q'
+# links:
+# - name: ""
+#   url: ""
+url_pdf: https://arxiv.org/abs/2412.13305
+url_code: https://github.com/Chris-Arvin/SM-NR
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: https://sm-nr.github.io/
+url_video: https://www.youtube.com/watch?v=9uhLzXsn28w
 
 # # Featured image
 # # To use, add an image named `featured.jpg/png` to your page's folder. 
