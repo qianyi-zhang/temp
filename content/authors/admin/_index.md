@@ -32,21 +32,6 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  # - icon: at-symbol
-  #   url: 'mailto:your-email@example.com'
-  #   label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
-  # - icon: brands/github
-  #   url: https://github.com/gcushen
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
   - icon: envelope
     url: 'mailto:arvin.nkzqy@gmail.com'
   - icon: academicons/google-scholar
@@ -100,52 +85,6 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical
-    items:
-      - name: C++
-        description: ''
-        percent: 90
-        icon: python
-        icon_pack: fab
-      - name: ROS
-        description: ''
-        percent: 100
-        icon: robot
-        icon_pack: fas
-      - name: Reinforcement Learning
-        description: ''
-        percent: 70
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 70
-        icon: person-hiking
-        icon_pack: fas
-      - name: Skateboarding
-        description: ''
-        percent: 90
-        icon: rocket
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 100
-        icon: camera-retro
-        icon_pack: fas
-
-languages:
-  - name: Chinese
-    percent: 100
-  - name: English
-    percent: 85
 ---
 
 ## About Me
