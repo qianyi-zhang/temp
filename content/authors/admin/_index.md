@@ -44,24 +44,10 @@ profiles:
 
 interests:
   - Motion planning of mobile robots
-  - Decision-making of autonomous vehicles
-  - Game theory for human-robot interaction
-  - Risk-aware navigation based on reinforcement learning
-  - Vision language navigation (VLNav)
-
-education:
-  - area: PhD in Artificial Intelligence
-    institution: Nankai University
-    date_start: 2021-09-01
-    date_end: 2026-06-01
-  - area: Visiting PhD in Robotics Institute
-    institution: University College London
-    date_start: 2024-12-01
-    date_end: 2025-12-01
-  - area: BSc in Automation System
-    institution: Nankai University
-    date_start: 2017-09-01
-    date_end: 2021-06-01
+  - Decision of autonomous vehicles
+  - Human-robot game theory
+  - RL-based risk-aware navigation
+  - Vision language navigation
 
 work:
   - position: Director of Cloud Infrastructure
@@ -86,6 +72,21 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+education:
+  - area: PhD in Artificial Intelligence
+    institution: Nankai University
+    date_start: 2021-09-01
+    date_end: 2026-06-01
+  - area: Visiting PhD in Robotics Institute
+    institution: University College London
+    date_start: 2024-12-01
+    date_end: 2025-12-01
+  - area: BSc in Automation System
+    institution: Nankai University
+    date_start: 2017-09-01
+    date_end: 2021-06-01
+
 ---
 
 ## About Me
