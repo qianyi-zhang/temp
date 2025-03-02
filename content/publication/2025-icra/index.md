@@ -1,22 +1,23 @@
 ---
-title: 'GA-TEB: Goal-Adaptive Framework for Efficient Navigation Based on Goal Lines'
+title: 'An example conference paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Wentao Luo
-  - Ziyang Zhang
-  - Yaoyuan Wang
-  - Jingtai Liu
+  - Robert Ford
 
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
-date: '2025-04-01T00:00:00Z'
+date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-04-05T16:23:51.355309Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,11 +25,16 @@ publishDate: '2025-04-05T16:23:51.355309Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2025 International Conference on Robotics and Automation*
-publication_short: In *ICRA2025*
+publication: In *Hugo Blox Builder Conference*
+publication_short: In *ICW*
 
-abstract: In crowd navigation, the local goal plays a crucial role in trajectory initialization, optimization, and evaluation. Recognizing that when the global goal is distant, the robot's primary objective is avoiding collisions, making it less critical to pass through the exact local goal point, this work introduces the concept of goal lines, which extend the traditional local goal from a single point to multiple candidate lines. Coupled with a topological map construction strategy that groups obstacles to be as convex as possible, a goal-adaptive navigation framework is proposed to efficiently plan multiple candidate trajectories. Simulations and experiments demonstrate that the proposed GA-TEB framework effectively prevents deadlock situations, where the robot becomes frozen due to a lack of feasible trajectories in crowded environments. Additionally, the framework greatly increases planning frequency in scenarios with numerous non-convex obstacles, enhancing both robustness and safety.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags:
+  - Large Language Models
 
 # Display this page in the Featured widget?
 featured: true
@@ -38,14 +44,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2409.10009'
-url_code: 'https://github.com/Chris-Arvin/GraphicTEB-series'
+url_pdf: ''
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: 'https://ga-teb.github.io/'
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
-url_video: 'https://www.youtube.com/watch?v=1K7Klxig8CU'
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -53,4 +59,29 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - example
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
 ---
+
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
+
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
