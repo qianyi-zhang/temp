@@ -38,10 +38,10 @@ featured: false
 url_pdf: https://arxiv.org/abs/2412.13305
 url_code: https://github.com/Chris-Arvin/SM-NR
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://sm-nr.github.io/'
 url_project: ''
 url_slides: ''
-url_source: https://sm-nr.github.io/
+url_source: ''
 url_video: https://www.youtube.com/watch?v=9uhLzXsn28w
 
 # # Featured image
