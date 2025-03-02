@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Candidate PH.D. of Robotics
+role: PH.D. student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -46,7 +46,8 @@ interests:
   - Motion planning of mobile robots
   - Decision-making of autonomous vehicles
   - Game theory for human-robot interaction
-  - Reinforcement learning in robot navigation
+  - Risk-aware navigation based on reinforcement learning
+  - Vision language navigation (VLNav)
 
 education:
   - area: PhD in Artificial Intelligence
@@ -61,9 +62,31 @@ education:
     institution: Nankai University
     date_start: 2017-09-01
     date_end: 2021-06-01
-
+work:
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
 ## About Me
 
-Qianyi Zhang is a candidate PH.D. of robotics at Institute of Robotics and Automatic Information System, Nankai University, China. His research interests include motion planning of mobile robots, decision-making of automated vehicles, game theory for human-robot interaction, and reinforcement learning in robot navigation. 
+Qianyi Zhang is a candidate PH.D. of robotics at Institute of Robotics and Automatic Information System, Nankai University, China, and also a visiting student of the Department of Computer Science of University College London. His research interests include motion planning of mobile robots, decision-making of autonomous vehicles, game theory for human-robot interaction, and reinforcement learning in robot navigation. 
