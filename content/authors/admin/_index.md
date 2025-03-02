@@ -40,9 +40,6 @@ profiles:
     url: https://github.com/Chris-Arvin
   - icon: brands/cv
     url: uploads/resume.pdf
-  - icon: brands/weixin
-    url: 17612203694
-    label: 17612203694
 
 
 interests:
@@ -69,4 +66,4 @@ education:
 
 ## About Me
 
-Qianyi Zhang is a candidate PH.D. of robotics at Institute of Robotics and Automatic Information System, Nankai University, China, and also a visiting student of the Department of Computer Science of University College London. His research interests include motion planning of mobile robots, decision-making of autonomous vehicles, game theory for human-robot interaction, and reinforcement learning in robot navigation. 
+Qianyi Zhang is a PH.D. student at Institute of Robotics and Automatic Information System of Nankai University, China (Service Robot Lab), and also a visiting PH.D. student of the Department of Computer Science of University College London (Robot Perception and Learning Lab). 
