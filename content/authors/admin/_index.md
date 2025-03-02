@@ -60,15 +60,15 @@ work:
   - position: Motion planning algorithm intern
     company_name: Huawei
     company_url: ''
-    company_logo: huawei.svg
+    company_logo: huawei
     date_start: 2023-09-01
     date_end: ''
     summary: |2-
-      For the motion planning of unmanned delivery vehicles in complex dynamic environments, a hybrid loosely coupled perceptionto-planning projection is proposed to make RL agent understand surroundings efficiently and robustly. The related works have been published to ICRA2025 and submitted to IROS2025.
+      For the motion planning of unmanned delivery vehicles in complex dynamic environments, an optimization-based navigation approach, GA-TEB, has been published on ICRA2025, and a RL-based navigation approach, NavG, has been submitted on IROS2025.
   - position: Decision-making algorithm intern
     company_name: Meituan
     company_url: ''
-    company_logo: meituan.svg
+    company_logo: meituan
     date_start: 2021-05-01
     date_end: 2022-03-31
     summary: |
