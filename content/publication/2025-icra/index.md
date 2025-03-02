@@ -51,7 +51,7 @@ url_pdf: https://arxiv.org/abs/2409.10009
 url_code: 'https://github.com/Chris-Arvin/GraphicTEB-series'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://ga-teb.github.io/'
 url_slides: ''
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=1K7Klxig8CU'
