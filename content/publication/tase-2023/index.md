@@ -2,7 +2,7 @@
 title: "GraphicTEB: Improve Computing Efficiency and Motion Safety by Analyzing Environment With
   Graphics"
 authors:
-- Qianyi Zhang
+- admin
 - Shichao Wu
 - Yuhang Jia
 - Yuang Xu
