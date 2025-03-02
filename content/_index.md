@@ -15,8 +15,8 @@ sections:
       text: ""
   - block: resume-experience
     id: experience
-    content:
-      username: admin
+    # content:
+    #   username: admin
   - block: collection
     id: papers
     content:
