@@ -77,4 +77,4 @@ work:
 
 ## About Me
 
-Qianyi Zhang is a PH.D. student at Institute of Robotics and Automatic Information System of Nankai University, China (Service Robot Lab), and also a visiting PH.D. student of the Department of Computer Science of University College London (Robot Perception and Learning Lab). 
+Qianyi Zhang is a PH.D. student at Institute of Robotics and Automatic Information System of Nankai University, China (Service Robot Lab), and also a visiting PH.D. student of the Department of Computer Science of University College London (Robot Perception and Learning Lab). Recent works have been published on T-ASE, R-AL, ICRA(2023,2024,2025), IROS(2022), etc.
