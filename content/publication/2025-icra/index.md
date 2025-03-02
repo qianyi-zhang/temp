@@ -11,6 +11,7 @@ authors:
   - Yaoyuan Wang
   - Jingtai Liu
 
+# Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
@@ -19,7 +20,7 @@ date: '2025-04-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-04-05T16:23:51'
+publishDate: '2025-04-05T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,11 +28,12 @@ publishDate: '2025-04-05T16:23:51'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2025 International Conference on Robotics and Automation*
-publication_short: In *ICRA2025*
+publication: In *Hugo Blox Builder Conference*
+publication_short: In *ICW*
 
 abstract: In crowd navigation, the local goal plays a crucial role in trajectory initialization, optimization, and evaluation. Recognizing that when the global goal is distant, the robot's primary objective is avoiding collisions, making it less critical to pass through the exact local goal point, this work introduces the concept of goal lines, which extend the traditional local goal from a single point to multiple candidate lines. Coupled with a topological map construction strategy that groups obstacles to be as convex as possible, a goal-adaptive navigation framework is proposed to efficiently plan multiple candidate trajectories. Simulations and experiments demonstrate that the proposed GA-TEB framework effectively prevents deadlock situations, where the robot becomes frozen due to a lack of feasible trajectories in crowded environments. Additionally, the framework greatly increases planning frequency in scenarios with numerous non-convex obstacles, enhancing both robustness and safety.
 
+# Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
@@ -45,14 +47,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2409.10009'
-url_code: 'https://github.com/Chris-Arvin/GraphicTEB-series'
+url_pdf: ''
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: 'https://ga-teb.github.io/'
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
-url_video: 'https://www.youtube.com/watch?v=1K7Klxig8CU'
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
