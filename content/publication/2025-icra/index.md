@@ -16,11 +16,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2025-02-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-02-02T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,8 +28,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *2025 International Conference on Robotics and Automation*
+publication_short: In *ICRA2025*
 
 abstract: In crowd navigation, the local goal plays a crucial role in trajectory initialization, optimization, and evaluation. Recognizing that when the global goal is distant, the robot's primary objective is avoiding collisions, making it less critical to pass through the exact local goal point, this work introduces the concept of goal lines, which extend the traditional local goal from a single point to multiple candidate lines. Coupled with a topological map construction strategy that groups obstacles to be as convex as possible, a goal-adaptive navigation framework is proposed to efficiently plan multiple candidate trajectories. Simulations and experiments demonstrate that the proposed GA-TEB framework effectively prevents deadlock situations, where the robot becomes frozen due to a lack of feasible trajectories in crowded environments. Additionally, the framework greatly increases planning frequency in scenarios with numerous non-convex obstacles, enhancing both robustness and safety.
 
