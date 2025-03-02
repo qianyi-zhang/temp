@@ -17,9 +17,6 @@ sections:
     id: experience
     content:
       username: admin
-      # filters:
-      #   folders:
-      #     - experiment
   - block: collection
     id: papers
     content:
