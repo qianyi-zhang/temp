@@ -49,6 +49,20 @@ interests:
   - RL-based risk-aware navigation
   - Vision language navigation
 
+education:
+  - area: PhD in Artificial Intelligence
+    institution: Nankai University
+    date_start: 2021-09-01
+    date_end: 2026-06-01
+  - area: Visiting PhD in Robotics Institute
+    institution: University College London
+    date_start: 2024-12-01
+    date_end: 2025-12-01
+  - area: BSc in Automation System
+    institution: Nankai University
+    date_start: 2017-09-01
+    date_end: 2021-06-01
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -72,21 +86,6 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-education:
-  - area: PhD in Artificial Intelligence
-    institution: Nankai University
-    date_start: 2021-09-01
-    date_end: 2026-06-01
-  - area: Visiting PhD in Robotics Institute
-    institution: University College London
-    date_start: 2024-12-01
-    date_end: 2025-12-01
-  - area: BSc in Automation System
-    institution: Nankai University
-    date_start: 2017-09-01
-    date_end: 2021-06-01
-
 ---
 
 ## About Me
