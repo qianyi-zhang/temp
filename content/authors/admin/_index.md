@@ -2,16 +2,9 @@
 # Display name
 title: Qianyi Zhang (Kenny)
 
-# Name pronunciation (optional)
-# name_pronunciation: Zhang Qianyi (Kenny)
-
 # Full name (for SEO)
 first_name: Qianyi
 last_name: Zhang
-
-# Status emoji
-# status:
-#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -64,28 +57,22 @@ education:
     date_end: 2021-06-01
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Motion planning algorithm intern
+    company_name: Huawei
     company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+    company_logo: huawei.svg
+    date_start: 2023-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      For the motion planning of unmanned delivery vehicles in complex dynamic environments, a hybrid loosely coupled perceptionto-planning projection is proposed to make RL agent understand surroundings efficiently and robustly. The related works have been published to ICRA2025 and submitted to IROS2025.
+  - position: Decision-making algorithm intern
+    company_name: Meituan
     company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    company_logo: meituan.svg
+    date_start: 2021-05-01
+    date_end: 2022-03-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      For the decision-making of unmanned delivery vehicles in narrow roads, prediction and planning are combined to propose an explorative game theory. The related work was published on IROS2022 and deployed to real vehicles.
 ---
 
 ## About Me
