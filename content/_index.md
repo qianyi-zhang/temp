@@ -17,9 +17,12 @@ sections:
     id: experience
     content:
       username: admin
-    design:
-      date_format: 'January 2006'
-      is_education_first: false
+      filters:
+        folders:
+          - experiment
+    # design:
+    #   date_format: 'January 2006'
+    #   is_education_first: false
   - block: collection
     id: papers
     content:
